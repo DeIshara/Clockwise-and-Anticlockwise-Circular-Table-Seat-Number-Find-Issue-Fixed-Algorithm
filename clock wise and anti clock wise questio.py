@@ -1,4 +1,6 @@
-# clock wise and anti clock wise question. related who first find a seat
+# clock wise and anti clock wise circular table start with same position (0) and one person clockwise 
+# one by one continue and other person anticlock wise two by two order continue and what is the
+#  both people are meet with same seat and what is seat number issue fix with new creative algorithm using
 
 Seats = input("Enter number of seats: ")
 is_build = True
